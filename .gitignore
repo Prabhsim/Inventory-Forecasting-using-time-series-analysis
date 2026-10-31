@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Generated results (re-create with: python forecast.py)
+outputs/
+
+# Dataset (download it yourself, see data/README.md)
+data/*.csv
+
+# Secrets / OS / editor
+.env
+.DS_Store
+.vscode/
+.idea/
